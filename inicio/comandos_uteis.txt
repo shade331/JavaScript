@@ -1,0 +1,6 @@
+Ctrl + "/" com as linhas selecionadas, comenta todas de uma vez
+Selecionar linhas e TAB vai pra frente e Shift + Tab vai pra trás
+Duplicar linha é alt + shift + \/
+Excluir linha Ctrl + X
+Shift + Alt + F formata o código
+console.log((10.345).toFixed(2)) o toFixed fixa o decimal em 2 casas nesse caso
