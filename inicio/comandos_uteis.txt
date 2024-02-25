@@ -4,3 +4,5 @@ Duplicar linha é alt + shift + \/
 Excluir linha Ctrl + X
 Shift + Alt + F formata o código
 console.log((10.345).toFixed(2)) o toFixed fixa o decimal em 2 casas nesse caso
+Ctrl + D seleciona os proximos itens iguais ao selecionado
+Ctrl + I seleciona a linha inteira
